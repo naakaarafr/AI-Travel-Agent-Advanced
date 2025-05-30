@@ -304,9 +304,3 @@ Having issues or questions? Here's how to get help:
 - Predictive travel planning based on user behavior  
 - Community-driven destination insights
 - Sustainable travel recommendations
-
----
-
-**Built with ❤️ by [naakaarafr](https://github.com/naakaarafr)**
-
-*Let AI plan your perfect adventure! 🌟*
