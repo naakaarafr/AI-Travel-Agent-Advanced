@@ -109,9 +109,6 @@ The system will guide you through:
 ```
 AI-Travel-Agent-Advanced/
 ├── crew.py                 # Main application with CLI interface
-├── agents.py              # AI agent definitions and configurations
-├── tasks.py               # Task definitions for each agent
-├── tools.py               # Custom tools for web search and calculations
 ├── config.py              # Configuration management
 ├── debug_api.py           # API diagnostic and testing tool
 ├── requirements.txt       # Python dependencies
